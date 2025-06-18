@@ -74,8 +74,6 @@ Pull requests are welcome! When adding a new feature:
 - Include detailed comments in calculated fields for clarity.
 - Keep visual design consistent with the existing style guide (colors, fonts, borders).
 
-## License
-Distributed under the MIT License. See `LICENSE` for details.
 
 ---
 
